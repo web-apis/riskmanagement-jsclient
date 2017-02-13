@@ -1,14 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Available Scripts
+## Setup
+
+The application is written in JavaScript; to run it you need to have [Node](https://nodejs.org/en/) installed. To install all required dependencies, run in the project directory:
+
+### `npm install`
+
+## Running
 
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
+This runs the app in the development mode. If a browser window does not open automatically, open [http://localhost:3000](http://localhost:3000).
